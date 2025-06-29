@@ -56,9 +56,6 @@ Start converting temperatures instantly!
 💡 Extra Challenge Implemented
 ✅ Support for Kelvin as both input and output unit for extended functionality.
 
-📸 Demo
-👉 For Demo Click: [Insert your live site or GitHub Pages link here]
-
 🙌 Acknowledgments
 Created as part of a Web Development task.
 Feel free to customize, improve, and share!
